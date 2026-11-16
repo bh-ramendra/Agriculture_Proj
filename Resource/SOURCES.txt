@@ -1,0 +1,17 @@
+Cloned from the papers and the implementation guide. Do not train on these checkouts; the project code is in ../Code.
+
+GitHub
+- DG-PLDR: https://github.com/seabearlmx/DG-PLDR
+  Benchmark images are not in the repo. Request them from seabearlmx@gmail.com with an organization email.
+- PiTLiD: https://github.com/zhanglab-wbgcas/PiTLiD
+- PlantVillage-Dataset: https://github.com/spMohanty/PlantVillage-Dataset
+- PlantDoc-Dataset: https://github.com/pratikkayal/PlantDoc-Dataset
+- PlantDoc-Object-Detection-Dataset: https://github.com/pratikkayal/PlantDoc-Object-Detection-Dataset
+- AppleLeaf9: https://github.com/JasonYangCode/AppleLeaf9
+
+Mendeley (flowchart source link, both files)
+- https://data.mendeley.com/datasets/tywbtsjrjv/1
+- Plant_leaf_diseases_dataset_without_augmentation.zip
+- Plant_leaf_diseases_dataset_with_augmentation.zip
+
+The third reference paper (frozen foundation-model features, Smart Agricultural Technology 2026) does not publish a GitHub repository.

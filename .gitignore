@@ -1,0 +1,22 @@
+# Large local data and model blobs (re-download / re-extract)
+Resource/github/
+Resource/datasets/
+Resource/models/
+Code/results/
+Code/logs/
+Code/checkpoints/
+
+# Python / tooling
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.DS_Store
+*.egg-info/
+.venv/
+.env
+
+# Editor
+.idea/
+.vscode/
+*.swp
